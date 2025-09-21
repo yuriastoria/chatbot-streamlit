@@ -1,0 +1,26 @@
+Data Analisis Penjualan 2024
+
+Ringkasan:
+- Total penjualan: Rp 2.5 miliar
+- Produk terlaris: Laptop Gaming
+- Wilayah terbaik: Jakarta
+- Bulan puncak: Desember
+
+Detail per bulan:
+Januari: Rp 180 juta
+Februari: Rp 195 juta
+Maret: Rp 220 juta
+April: Rp 210 juta
+Mei: Rp 240 juta
+Juni: Rp 250 juta
+Juli: Rp 230 juta
+Agustus: Rp 260 juta
+September: Rp 280 juta
+Oktober: Rp 290 juta
+November: Rp 300 juta
+Desember: Rp 350 juta
+
+Rekomendasi:
+1. Fokus pada produk laptop gaming
+2. Ekspansi ke wilayah Jakarta
+3. Persiapan stok untuk bulan Desember
